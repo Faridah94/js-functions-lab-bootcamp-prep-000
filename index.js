@@ -15,4 +15,4 @@ function happyHolidaysTo(days,holiday){
    return `It's ${days} days until ${holiday}!`
 }
 
-console.log(happyHolidaysTo(2,'ffff'))
+console.log(happyHolidaysTo('hhh','ffff'))
